@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Show product details</description>
+   <name>TC_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>012afe54-f33d-43d9-92b0-b759d23f3752</testCaseGuid>
+</TestCaseEntity>

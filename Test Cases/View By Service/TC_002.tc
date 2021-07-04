@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Product view by Service</description>
+   <name>TC_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b352c7b-5eb4-445d-b6c7-c8dbf64f53a8</testCaseGuid>
+</TestCaseEntity>

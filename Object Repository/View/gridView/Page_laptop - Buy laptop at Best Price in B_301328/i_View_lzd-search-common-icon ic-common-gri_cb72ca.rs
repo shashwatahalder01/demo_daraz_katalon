@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_View_lzd-search-common-icon ic-common-gri_cb72ca</name>
+   <tag></tag>
+   <elementGuidId>9538e645-cb70-4a37-a88e-82722aa62726</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.lzd-search-common-icon.ic-common-grid.c3LmXO.c1f9Rm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div/div/div[2]/div/div[4]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lzd-search-common-icon ic-common-grid c3LmXO c1f9Rm</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2a0e.searchlist.0.i1.45dc7463x5svnb</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c2P49E&quot;]/div[@class=&quot;ant-row c10-Cg&quot;]/div[@class=&quot;ant-col-24&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col-20 ant-col-push-4 c1z9Ut&quot;]/div[@class=&quot;cUQuRr&quot;]/div[@class=&quot;c3wo-b&quot;]/div[@class=&quot;c3Cd9k&quot;]/div[@class=&quot;c2pQcz&quot;]/div[@class=&quot;c2tv0r&quot;]/span[1]/i[@class=&quot;lzd-search-common-icon ic-common-grid c3LmXO c1f9Rm&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div/div/div[2]/div/div[4]/span/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>to check response time for Change product  grid view</description>
+   <name>TC_005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dded04b6-e3ea-4c28-b0e9-316374748974</testCaseGuid>
+</TestCaseEntity>

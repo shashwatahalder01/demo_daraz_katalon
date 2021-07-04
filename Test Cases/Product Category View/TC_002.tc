@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Product view by Category</description>
+   <name>TC_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81d16bac-6ea9-4236-bbf8-dc388ffbf3c3</testCaseGuid>
+</TestCaseEntity>

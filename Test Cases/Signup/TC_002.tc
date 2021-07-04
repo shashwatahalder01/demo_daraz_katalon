@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign up into daraz website</description>
+   <name>TC_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9754b578-06c2-4de4-8f9b-e47a187d3329</testCaseGuid>
+</TestCaseEntity>

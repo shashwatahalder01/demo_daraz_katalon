@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Product Sort with low to high</description>
+   <name>TC_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0f74825-1509-4a14-bf3b-ea3bbd59d4ee</testCaseGuid>
+</TestCaseEntity>

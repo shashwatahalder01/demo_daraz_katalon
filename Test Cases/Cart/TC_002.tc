@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add to Product into cart</description>
+   <name>TC_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c13b3d51-2792-4e6c-b394-71c3683474b6</testCaseGuid>
+</TestCaseEntity>

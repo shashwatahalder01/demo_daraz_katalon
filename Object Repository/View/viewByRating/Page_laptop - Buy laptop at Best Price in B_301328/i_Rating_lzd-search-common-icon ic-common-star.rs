@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Rating_lzd-search-common-icon ic-common-star</name>
+   <tag></tag>
+   <elementGuidId>4c7cd8ad-d66a-413b-a19f-9828fc98723e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div[6]/div[2]/div/ul/li[5]/div[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lzd-search-common-icon ic-common-star </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2a0e.searchlist.filter.i0.3d1f7463iesErP</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c2P49E&quot;]/div[@class=&quot;ant-row c10-Cg&quot;]/div[@class=&quot;ant-col-24&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col-4 ant-col-pull-20 c2cfh3&quot;]/div[@class=&quot;cxzbx5&quot;]/div[@class=&quot;c2cYd1&quot;]/div[@class=&quot;c2uiAC&quot;]/div[@class=&quot;cJpy4P&quot;]/ul[@class=&quot;ant-rate ant-rate-disabled&quot;]/li[@class=&quot;ant-rate-star ant-rate-star-full&quot;]/div[@class=&quot;ant-rate-star-second&quot;]/i[@class=&quot;lzd-search-common-icon ic-common-star&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div[6]/div[2]/div/ul/li[5]/div[2]/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div[2]/i</value>
+   </webElementXpaths>
+</WebElementEntity>

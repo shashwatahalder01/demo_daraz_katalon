@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search with empty value</description>
+   <name>TC_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>879afad7-d62a-4aa9-9328-13956d942c80</testCaseGuid>
+</TestCaseEntity>

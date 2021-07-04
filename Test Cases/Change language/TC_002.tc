@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Change language en to bn</description>
+   <name>TC_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb248b7f-0155-46c2-a885-487d1b4469ce</testCaseGuid>
+</TestCaseEntity>

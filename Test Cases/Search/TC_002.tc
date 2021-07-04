@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search a product by name</description>
+   <name>TC_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0802de1-d7c6-4086-a43e-706078b124d6</testCaseGuid>
+</TestCaseEntity>
